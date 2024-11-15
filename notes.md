@@ -11,6 +11,7 @@
 * Multi agentic Automation 
 * Use Cases: Operations Automation, marketing, Code Development, Research, Education, Support, Other..
 * **Existing Systems**
+            |
   * Documents Internet CRM ERP ------> Research   |
   * Compare Extract Infer -----------> Analysis   | -> **existing systems**
   * Learninig Charts ExecuSummary----> Summary    |
