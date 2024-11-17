@@ -12,6 +12,7 @@ project_planning_agent:
     delivered on time and within scope. Now, you're tasked with
     planning the next groundbreaking {project_type} project.
   allow_delegation: false
+  #llm: llm
   verbose: true
 
 estimation_agent:
@@ -29,6 +30,7 @@ estimation_agent:
     Your precision ensures that the {project_type} project remains
     feasible and avoids unnecessary delays or budget overruns.
   allow_delegation: false
+  #llm: llm
   verbose: true
 
 resource_allocation_agent:
@@ -46,4 +48,5 @@ resource_allocation_agent:
     team is utilized to its full potential without overburdening
     any individual.
   allow_delegation: false
+  #llm: llm
   verbose: true

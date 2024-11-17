@@ -37,3 +37,17 @@ LLM + Tools -- Initiallly they are simple. once we bring them to production sett
 
 1. Agents - ROLE + GOAL + BACKSTORY
 2. Tasks - DESCRIPTION + EXPECTED OUTPUT + AGENT
+
+
+YAML settings
+
+**Internal and External Integrations**
+
+
+
+
+**Agentic Workflows in Industry**
+
+Jacod T. Wilson, CTO PwC
+
+main challenges - 
